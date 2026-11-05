@@ -1,0 +1,12 @@
+# compilados e pastas da IDE
+out/
+bin/
+*.class
+.vscode/
+.idea/
+*.iml
+
+# dados reais de reservas (nunca subir)
+dados/
+*.tsv
+*.bak
